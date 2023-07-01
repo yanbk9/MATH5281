@@ -1,4 +1,4 @@
-# MATH5281 HKUST
+# MATH5281 - Partial Differential Equations, HKUST
 
 This is my homework for the MATH5281 course, which is taught by Professor [Jin Tianling](https://www.math.hkust.edu.hk/~tianlingjin/) in the spring of 2023.  
 
